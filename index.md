@@ -1,3 +1,3 @@
 
-<!inputFile|path=debugging-spy-spy/index.md!>
+<!inputFile|path=debugging-spy/index.md!>
 
